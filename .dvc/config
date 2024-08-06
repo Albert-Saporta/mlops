@@ -1,4 +1,6 @@
 [core]
     remote = storage
+['remote "remote"']
+    url = gdrive://https://drive.google.com/drive/u/1/folders/1sm7AozB10hxHME6_eXUW9RcLugqzudWE
 ['remote "storage"']
-    url = gdrive://1SZn17CjuleaWV4Vkp23Z7Dn03bbTuOPj
+    url = /home/albert/DeepLearning/dvcremote
